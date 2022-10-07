@@ -21,10 +21,6 @@
 - We was assigned a group of 5 where we had to split the workload amount each other
 - Used as a judgement of how good we are at presenting work 
 
-## Agile & Scrum Activity 
-- Broke into groups of 5 where we assigned our 2nd presentation 
-- We used feedback we were given to improve both our slides and our presenting skills.
-
 
 ## Agile 
 ![Agile-software-dev-1](https://user-images.githubusercontent.com/115224560/194594635-d9c03419-fd38-42ad-b45b-524b9465f208.jpeg)
@@ -37,6 +33,12 @@
 - Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems. 
 
 ![scrumorg-scrum-framework-3000](https://user-images.githubusercontent.com/115224560/194594900-7d8ce141-53fc-4c9d-945c-e618717b9a04.png)
+
+## Agile & Scrum Activity 
+- We Broke into groups of 5 where we assigned our 2nd presentation 
+- We used the feedback we were given from our previous to improve both our slides and our presenting skills.
+
+
 
 ## How to install Python and Pycharm (Step by step)
 
