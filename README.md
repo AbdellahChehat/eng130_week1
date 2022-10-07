@@ -26,4 +26,18 @@
 - We used feedback we were given to improve both our slides and our presenting skills.
 
 
+## What is Agile ?
+-
+-
+-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.soldevelo.com%2Fblog%2Fis-agile-always-the-best-solution-for-software-development-projects%2F&psig=AOvVaw1_GS0Z0dxhCHuGNhMHB29e&ust=1665239988907000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjW0MOszvoCFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/115224560/194580183-b2cbba15-3165-4ecc-86bc-1c7aa587587a.png)
 
+
+## What is Scrum ?
+-
+-
+-
+## How to install Python and Pycharm (Step by step)
+
+-- Stage 1: Installing Python 
+- In order to install python visit https://www.python.org/downloads/ depending on your OS you have you will select the latest version of python Available.
+-
