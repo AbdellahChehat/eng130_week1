@@ -23,6 +23,9 @@
 - Why do you think you should be hired?
 - Any questions you’d like to ask?
 
+ ![prepare-interviews-featured](https://user-images.githubusercontent.com/115224560/194603322-9018bd5e-d884-4c88-bde6-1b008d6840d8.png)
+
+
 
 ## Completed Profiles
 - After Luke's presentation I improved my profile with the notes taken;
@@ -33,6 +36,7 @@
 - First Presentation  
 - We was assigned a group of 5 where we had to split the workload amount each other
 - Used as a judgement of how good we are at presenting work 
+- I was incahrge of expalining the benefits of DevOps
 
 ![Unknown](https://user-images.githubusercontent.com/115224560/194595818-505c5bf1-8bf8-42aa-8e04-619168f02bf7.jpeg)
 
