@@ -33,9 +33,11 @@
 
 
 ## What is Scrum ?
--
--
--
+
+- Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems. 
+
+![scrumorg-scrum-framework-3000](https://user-images.githubusercontent.com/115224560/194594900-7d8ce141-53fc-4c9d-945c-e618717b9a04.png)
+
 ## How to install Python and Pycharm (Step by step)
 
 - Stage 1: Installing Python:
@@ -45,7 +47,7 @@
 - After that follow the steps on screen to complete the downlaod.
 
 
--Stage 2 downloading Pycharm:
+- Stage 2 downloading Pycharm:
 - In Order to install Pycharm visit https://www.jetbrains.com/pycharm/download/#section=mac depending on your OS you have you will select the appropiate version. (Choose between the free version and the paid one).
 -  As you can see on the image below.
 <img width="1237" alt="Screenshot 2022-10-07 at 16 42 07" src="https://user-images.githubusercontent.com/115224560/194594176-5527f247-6631-4261-8f9e-c7edba60f8bd.png">
