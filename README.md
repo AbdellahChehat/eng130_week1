@@ -10,16 +10,32 @@
 
 ## Interview work shop & Practice 
 - We broke into samller groups of 3 where we practiced our interview skills
+- Examples of questions:
+
+- Tell me about yourself.
+- What are your hobbies?
+- Why Sparta Global?
+- What are your aims after your training?
+- Where do you see yourself in 2 / 3 years?
+- Tell me about some key benefits of DevOps.
+- Why do you want to become a DevOps engineer?
+- What is your role as a DevOp?
+- Why do you think you should be hired?
+- Any questions you’d like to ask?
 
 
 ## Completed Profiles
 - After Luke's presentation I improved my profile with the notes taken;
 - Added a LinkedIn as well as a github account 
+-- LinkedIn account https://www.linkedin.com/in/abdellah-chehat-bais-pedros-29042a19a/ 
 
 ## DevOps Presentation 
 - First Presentation  
 - We was assigned a group of 5 where we had to split the workload amount each other
 - Used as a judgement of how good we are at presenting work 
+
+![Unknown](https://user-images.githubusercontent.com/115224560/194595818-505c5bf1-8bf8-42aa-8e04-619168f02bf7.jpeg)
+
 
 
 ## Agile 
