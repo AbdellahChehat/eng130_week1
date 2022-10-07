@@ -40,4 +40,5 @@
 
 -- Stage 1: Installing Python 
 - In order to install python visit https://www.python.org/downloads/ depending on your OS you have you will select the latest version of python Available.
--
+<img width="971" alt="Screenshot 2022-10-07 at 16 21 57" src="https://user-images.githubusercontent.com/115224560/194590864-c6721f5e-39e1-4e66-b2a6-243c3a3fcc3b.png">
+
