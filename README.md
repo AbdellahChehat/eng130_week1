@@ -1,6 +1,8 @@
-### Elevator's Pitch 
+## In this repo I will be covering all the work I completed during Week 1 (Business Week)
 
-## Introduction about yourself which includes the following
+
+
+## Elevator's Pitch (Introduction about yourself which includes the following)
 - Your Education 
 - Where you work 
 - Why sparta ?
@@ -43,8 +45,13 @@
 
 
 ## Agile 
-![Agile-software-dev-1](https://user-images.githubusercontent.com/115224560/194594635-d9c03419-fd38-42ad-b45b-524b9465f208.jpeg)
+![Agile-software-dev-1](https://user-images.githubusercontent.com/115224560/194594635-d9c03419-fd38-42ad-b45b-524b9465f208.jpeg). 
 
+Agile modeling (AM) is a methodology for modeling and documenting software systems based on best practices
+
+![1*tGKCSfTfV8E8t4atqrLE4A](https://user-images.githubusercontent.com/115224560/194832418-ab0dbff9-d9dd-4bf1-9266-d8b7cb426ac9.png)
+
+The waterfall model is a breakdown of project activities into linear sequential phases, where each phase depends on the deliverables of the previous one 
 
 
 
@@ -54,7 +61,7 @@
 
 ![scrumorg-scrum-framework-3000](https://user-images.githubusercontent.com/115224560/194594900-7d8ce141-53fc-4c9d-945c-e618717b9a04.png)
 
-## Agile & Scrum Activity 
+## Agile & Scrum Activity (Presentation)
 - We Broke into groups of 5 where we assigned our 2nd presentation 
 - We used the feedback we were given from our previous to improve both our slides and our presenting skills.
 
